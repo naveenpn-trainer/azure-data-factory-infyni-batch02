@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-infyni-batch02",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "320ff806-e0fb-4992-baae-2380a9d671b4",
+		"tenantId": "8fc31479-3dc4-46a4-9b03-b092690e4885"
+	}
+}
